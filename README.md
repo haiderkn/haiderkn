@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, APIs, Docker, Data Engineering, Web Scraping**
 
-- 📫 How to reach me **haiderk4422@gmail.com**
+- 📫 How to reach me **haider.sde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
