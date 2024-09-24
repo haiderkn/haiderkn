@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haider Ali Khan</h1>
-<h3 align="center">A passionate backend developer and data engineer.</h3>
+<h3 align="center">A passionate CS student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderkn&label=Profile%20views&color=0e75b6&style=flat" alt="haiderkn" /> </p>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Python, APIs, Docker, Data Engineering, Web Scraping, AWS**
+- 💬 Ask me about **Python, Django REST, Docker, Selenium**
 
 - 📫 How to reach me **haider.sde@gmail.com**
 
