@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haider Ali Khan</h1>
-<h3 align="center">A passionate CS student.</h3>
+<h1 align="center">Assalamu Alaikum 👋, I'm Haider Ali Khan</h1>
+<h3 align="center">Another random CS student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderkn&label=Profile%20views&color=0e75b6&style=flat" alt="haiderkn" /> </p>
 
